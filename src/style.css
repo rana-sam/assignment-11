@@ -1,0 +1,238 @@
+
+
+
+                    /* group 2 */
+
+
+.group2{
+    width: 100%;
+    height: 701px;
+    background-color: rgb(245, 237, 223);
+    color: rgb(245, 75, 59);
+    position: relative;
+}
+.textGroup2{
+    font-size: 1.2rem;
+    padding-top: 10px;
+    margin-left: 550px;    
+}
+.textGroup2 p{
+    width: 450px;
+    height: 50px;
+}
+.textGroup2 h1{
+    margin-left: 150px;
+}
+img{
+    height: 254px;
+    width: 245px;
+    border-radius: 50%;
+}
+.cardGroup2{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 90px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+span{
+    justify-content: center;
+    text-align: center;
+}
+.designGroup2 img{
+    top: 0px;
+
+}
+.designbugr{
+    width: 150px;
+    height: 160px;
+    position: absolute;
+    right: 80px;
+    margin-top: 100px;
+    transform: rotate(45deg);
+}
+.designchim{
+    width: 98px;
+    height: 107px;
+    position: absolute;
+    right: 40px;
+    margin-top: 420px;
+}
+.designgar{
+    position: absolute;
+    width: 96px;
+    height: 99px;
+    left: 210px;
+    margin-top: 100px;
+}
+.designfri{
+    position: absolute;
+    width: 148px;
+    height: 178px;
+    left: 0px;
+    margin-top: 300px;
+    transform: rotate(10deg);
+}
+.designlea{
+    position: relative;
+    left: 400px;
+    height: 87px; 
+    width: 87px;
+    transform: rotate(30deg);
+}
+.designmush{
+    position: relative;
+    width: 85px;
+    height: 85px;
+    left: 900px;
+    transform: rotate(70deg);
+}
+
+
+                    /* Group 5 */
+
+.group5{
+    font-size: 1.5rem;
+    width: 100%;
+    height: 701px;
+    margin-top: 20px;
+    background-color: rgb(245, 75, 59);
+    color: white;
+}
+.textgroup5{
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+    align-items: center;
+}
+.textgroup5 p{
+    height: 50px;
+    width: 560px;
+   margin-left: 470px;
+}
+.cardgroup5{
+    display: flex; 
+    justify-content:space-evenly;
+    padding-top: 70px;
+}
+.card1group5{
+    height: 210px;
+    width: 210px;
+    border-radius: 50%;
+    border: 5px solid white;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+                        /* Group 8 */
+
+.group8{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height:600px;
+    font-size: 1.5rem;
+    color: rgb(245, 75, 59);
+    background-color: rgb(245, 237, 223);
+    padding-top: 150px;
+}                     
+.textgroup8{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.textgroup8 p{
+    height: 50px;
+    width: 560px;
+   margin-left: 470px;
+}
+.formgroup8{
+    justify-content: center;
+    text-align: center;
+}
+.formgroup8 ::placeholder{
+    padding-left: 20px;
+}
+.formgroup8 input{
+    border-style: none;
+    border-radius: 20px 0px 0px 20px;
+    height: 35px;
+    width: 400px;
+}
+.formgroup8 button{
+    border-style: none;
+    color: white;
+    background-color: rgb(245, 75, 59);
+    border-radius: 0px 20px 20px 0px;
+    position: relative;
+    right: 5px;
+    height:36px;
+    width: 100px;
+}
+.imagegroup8{
+    display: flex;
+}
+
+.leagroup8{
+    position: relative;
+    bottom: 350px;
+    height: 85px;
+    width: 85px;
+}
+.frigroup8{
+    height: 190px;
+    width: 190px;
+    transform: rotate(320deg);
+    position: relative;
+    top: 50px;
+    left: 230px;
+}
+.musgroup8{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    bottom: 150px;
+    right: 5%;
+    transform: rotate(190deg);
+}
+.burgroup8{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    left: 40%;
+    bottom: 400px;
+    transform: rotate(60deg);
+}
+.gargroup8{
+    height: 90px;
+    width: 90px;
+    position: relative;
+    left: 35%;
+    bottom: 100px;
+}
+.chigroup8{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    left: 21%;
+    top: 90px;
+    transform: rotate(55deg);
+    
+
+}
+.lea1group8{
+    height: 99px;
+    width: 99px;
+    position: relative;
+    left: 15%;
+    top: 130px;
+}
+.chi1group8{
+    height: 120px;
+    width: 120px;
+    position: relative;
+    bottom: 420px;
+    right: 10%;
+}
