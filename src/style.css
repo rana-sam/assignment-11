@@ -76,7 +76,7 @@ span{
 }
 .designlea{
     position: relative;
-    left: 400px;
+    right: 350px;
     height: 87px; 
     width: 87px;
     transform: rotate(30deg);
@@ -85,7 +85,7 @@ span{
     position: relative;
     width: 85px;
     height: 85px;
-    left: 900px;
+    left: 400px;
     transform: rotate(70deg);
 }
 
