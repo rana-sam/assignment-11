@@ -5,7 +5,6 @@ export default function Group1() {
         <div>
              <div className="group1">
         <div className="row">
-          <div className="col-1" />
           <div className="col-3">
             <img src={logo} alt="" />
           </div>
