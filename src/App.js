@@ -9,12 +9,12 @@ import Group3 from "./Component/Group3";
 function App() {
   return (
     <div className="App">
-     <Group1/>
-     <Group2/>
-     <Group3/>
-     <Group5/>
-     <Group8/>
-     </div>
+      <Group1 />
+      <Group2 />
+      <Group3 />
+      <Group5 />
+      <Group8 />
+    </div>
   );
 }
 

@@ -1,12 +1,15 @@
-import React from 'react'
+import React from "react";
 
 export default function Group5() {
-    return (
-        <div>
-            <div className="group5">
+  return (
+    <div>
+      <div className="group5">
         <div className="textgroup5">
           <h1>Statistics</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+            lacinia odio vitae vestibulum vestibulum.{" "}
+          </p>
         </div>
         <div className="cardgroup5">
           <div className="card1group5">
@@ -23,7 +26,6 @@ export default function Group5() {
           </div>
         </div>
       </div>
-
-        </div>
-    )
+    </div>
+  );
 }
