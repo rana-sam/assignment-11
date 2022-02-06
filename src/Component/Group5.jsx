@@ -14,7 +14,6 @@ export default function Group5() {
         <div className="cardgroup5">
           <div className="card1group5">
             <h1>7K</h1>
-            
             <p>CUSTOMER</p>
           </div>
           <div className="card1group5">
